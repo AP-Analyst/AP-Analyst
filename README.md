@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AP-Analyst
+- 👋 Hi, I’m Arinze
 - 👀 I’m interested in data analysis and programming. 
 - Here you will find some projects I've worked on. I hope it fosters inspiration.
 
